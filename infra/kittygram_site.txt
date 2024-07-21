@@ -1,6 +1,5 @@
-
- IP: 158.160.28.127;
- name_taski: https://gagapracticume.ddns.net;
- name_kittygram: https://kittygramgagarin.ddns.net;
- login: admin;
- password: admin;
+IP: 158.160.28.127;
+name_taski: https://gagapracticume.ddns.net;
+name_kittygram: https://kittygramgagarin.ddns.net;
+login: admin;
+password: admin;
